@@ -5,7 +5,7 @@ This application allows users to add, view, search, and delete student records e
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add new student with name, age, and roll number
 - View all stored student records
